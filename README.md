@@ -2,7 +2,7 @@
 simple control program to use with the adafruit 16 channel servo hat for the raspberry pi
 
 Also includes: 
-An updated keyboard control scheme using evdev!
+A keyboard control scheme using evdev!
 An updated Fuchikoma2 file for more refined servo programming!
 
 Simple demo: https://youtu.be/WhKlezBAXBA
